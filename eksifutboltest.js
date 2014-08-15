@@ -1,12 +1,11 @@
 // ==UserScript==
-// @name	eksi futbol test
-// @namespace	https://github.com/ziegfiroyt/eksifutbol
-// @author	ziegfiroyt @github
-// @description	futbol bizim isimiz
-// @match	https://eksisozluk.com/*
-// @match	https://*.eksisozluk.com/*
-// @version	0.7
-// @grant none
+// @name        arastir++
+// @namespace   https://github.com/fellay/arastirpp
+// @author      fellay @github
+// @description arastir linkleri geri dondu!
+// @match     https://eksisozluk.com/*
+// @match     https://*.eksisozluk.com/*
+// @version     0.2
 // ==/UserScript==
 
 /* selam */
