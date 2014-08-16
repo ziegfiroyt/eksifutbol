@@ -10,7 +10,7 @@
 // ==/UserScript==
 
 
-$(document).ready(function() {
+$( document ).ready(function() {
     
    var zieg = $('h1#title span[itemprop="name"]').text();
 
