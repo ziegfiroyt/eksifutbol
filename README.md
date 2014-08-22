@@ -1,5 +1,6 @@
 eksifutbol
 ==========
+https://eksisozluk.com/eksi-futbol--2383619
 
 eksi sozluk'teki mac basliklarini bilgiyle donatir. 
 sosyal medyada en cok paylasilan haberlerden gundem olusturur, yerli ve yabanci basini bir kutuya sigdirir.
